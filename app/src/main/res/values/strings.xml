@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Amgad Calculator</string>
+    <string name="buttonClear_name" translatable="false">C</string>
+    <string name="buttonPlus_name" translatable="false">+</string>
+    <string name="buttonMinus_name" translatable="false">-</string>
+    <string name="buttonMultiply_name" translatable="false">*</string>
+    <string name="buttonDivision_name" translatable="false">/</string>
+    <string name="buttonDelete_name">Del</string>
+    <string name="buttonDot_name" translatable="false">.</string>
+    <string name="button0_name" translatable="false">0</string>
+    <string name="button1_name" translatable="false">1</string>
+    <string name="button2_name" translatable="false">2</string>
+    <string name="button3_name" translatable="false">3</string>
+    <string name="button4_name" translatable="false">4</string>
+    <string name="button5_name" translatable="false">5</string>
+    <string name="button6_name" translatable="false">6</string>
+    <string name="button7_name" translatable="false">7</string>
+    <string name="button8_name" translatable="false">8</string>
+    <string name="button9_name" translatable="false">9</string>
+    <string name="buttonEqual_name" translatable="false">=</string>
+
+</resources>
